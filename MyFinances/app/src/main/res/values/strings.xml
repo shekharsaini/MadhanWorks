@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFinances</string>
+    <string name="enter_account_number">Enter Account Number</string>
+</resources>

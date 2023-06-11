@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contractor_calculator">Contractor Calculator</string>
+    <string name="labor_cost">Labor Cost</string>
+    <string name="material_cost">Material Cost</string>
+</resources>
